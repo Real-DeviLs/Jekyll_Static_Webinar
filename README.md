@@ -25,5 +25,12 @@ Real DeviLs are organizing an online webinar to show use of Jekyll and some web 
 - git commit -m"description"
 - git remote add origin <link>
 - git push
-
+## Some Good themes to explore
+- https://jekyll-themes.com/developr/
+- https://jekyll-themes.com/massively/
+- https://github.com/stackbithq/stackbit-theme-exto
+- https://github.com/snipcart/stackbit-theme-planty
+- https://github.com/arkadianriver/spectral
+- https://jamstackthemes.dev/demo/theme/jekyll-sleek-blog/
+- https://jamstackthemes.dev/demo/theme/agency-jekyll-theme/
 # Stay Creative Stay Curious 
