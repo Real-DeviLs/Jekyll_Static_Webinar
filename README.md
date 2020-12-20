@@ -36,4 +36,6 @@ Real DeviLs are organizing an online webinar to show use of Jekyll and some web 
 ## Ruby Installation 
 - 1 and enter 
 - 3 and enter
+  ### jekyll installation
+  gem install jekyll
 # Stay Creative Stay Curious 
