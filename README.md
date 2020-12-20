@@ -38,4 +38,12 @@ Real DeviLs are organizing an online webinar to show use of Jekyll and some web 
 - 3 and enter
   ### jekyll installation
   gem install jekyll
-# Stay Creative Stay Curious 
+  ### jekyll commands for running new project
+  - jekyll new <project name>
+  - bundle exec jekyll serve
+  
+  ### for adding gemfile 
+   - bundle init
+   - bundle add jekyll
+      
+ # Stay Creative Stay Curious 
