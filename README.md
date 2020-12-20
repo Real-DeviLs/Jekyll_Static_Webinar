@@ -33,4 +33,7 @@ Real DeviLs are organizing an online webinar to show use of Jekyll and some web 
 - https://github.com/arkadianriver/spectral
 - https://jamstackthemes.dev/demo/theme/jekyll-sleek-blog/
 - https://jamstackthemes.dev/demo/theme/agency-jekyll-theme/
+## Ruby Installation 
+- 1 and enter 
+- 3 and enter
 # Stay Creative Stay Curious 
